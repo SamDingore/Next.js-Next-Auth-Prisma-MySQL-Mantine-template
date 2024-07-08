@@ -1,7 +1,6 @@
 # Next.js Next Auth Prisma MySQL Mantine template
 
 This is a template for [Next.js](https://nextjs.org/) pages router + [Mantine](https://mantine.dev/) + [Next-Auth](https://next-auth.js.org/) + [PRISMA](https://www.prisma.io/) + [MySQL](https://dev.mysql.com/downloads/).
-If you want to use app router instead, see [next-app-template](https://github.com/mantinedev/next-app-template).
 
 ## Features
 
